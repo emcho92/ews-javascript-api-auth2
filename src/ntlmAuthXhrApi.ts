@@ -5,7 +5,7 @@ import {setupXhrResponse} from "./utils";
 
 import { Agent as httpsAgent } from "https";
 
-var { createType1Message, decodeType2Message, createType3Message } = require("ntlm-client") //ref: has NTLM v2 support // info: also possible to use this package in node.
+var { createType1Message, decodeType2Message, createType3Message } = require("node-ntlm-client") //ref: has NTLM v2 support // info: also possible to use this package in node.
 
 //var ntlm = require('httpntlm').ntlm; //removing httpntlm due to lack of NTLM v2
 
