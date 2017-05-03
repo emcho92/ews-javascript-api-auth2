@@ -1,5 +1,5 @@
 {
-  "name": "ews-javascript-api-auth",
+  "name": "ews-javascript-api-auth2",
   "version": "1.2.0",
   "description": "Library to Help with non-Basic Authentication methods with ews-javascript-api package",
   "main": "src/index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gautamsi/ews-javascript-api-auth.git"
+    "url": "https://github.com/istersin/ews-javascript-api-auth2.git"
   },
   "bugs": {
-    "url": "https://github.com/gautamsi/ews-javascript-api-auth/issues"
+    "url": "https://github.com/istersin/ews-javascript-api-auth2.git/issues"
   },
-  "homepage": "https://github.com/gautamsi/ews-javascript-api-auth",
+  "homepage": "https://github.com/istersin/ews-javascript-api-auth2.git",
   "author": "Gautam Singh (@gautamsi)",
   "license": "MIT",
   "dependencies": {
